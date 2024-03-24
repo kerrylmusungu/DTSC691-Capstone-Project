@@ -2,8 +2,11 @@ Database Project
 Proposal
 DTSC691: Applied Data Science
 MUSUNGU KERRYL
+
 Project Overview
+
 Project Goals
+
 Purpose		: As part of our study, we shall be conducting a thorough analysis of the Covid-19 datasets. Our objective is to identify key details that are pertinent to our research topic. To achieve this, we shall scrutinize the data with utmost diligence and apply statistical methods where necessary to extract meaningful insights. The findings of this study will be instrumental in informing our research and contributing to the wider body of knowledge on this subject.
 Project Focus	: The aim of this project is to carefully monitor several critical consequences or variable outcomes related to the COVID-19 pandemic over a specific period, from January 22, 2020, to July 27, 2020. The variables in question include the number of cases, mortality rate, recovery rate, and others, in different countries and continents. The objective of this project is to analyze the effects of these variables, rather than their root causes.
 Specific Goals	: This research project will be dedicated to examining the impact of COVID-19 in various regions, as designated by the World Health Organization (WHO). The anticipated outcomes of this project will be a comprehensive list of questions that we intend to address to provide greater clarity and insight into the effects of COVID-19 in these regions. Our primary objective is to conduct a thorough and rigorous investigation, which will enable us to generate a detailed report on the key issues related to this pandemic. We are committed to delivering a well-researched and insightful report that will serve as a valuable resource for business and academic professionals alike. How the COVID-19 pandemic has changed over time in each geographical area (globe, continent, and WHO region). We shall endeavor to provide responses to the following primary inquiries later:  
